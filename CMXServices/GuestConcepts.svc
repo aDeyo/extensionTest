@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DMx.Xrm.Services.GuestConcepts" CodeBehind="GuestConcepts.svc.cs" %>
