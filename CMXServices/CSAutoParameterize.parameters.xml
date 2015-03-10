@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Crm-Web.config Connection String" description="Crm Connection String used in web.config by the application to access the database." defaultValue="Url=https://cmxqainternalcrm.dominiondashboard.com/CmxManagement; Username=CMXQA\CMXIntegrations; Password=12345678; DeviceID=6100DC19-969A-4C48-B3B4-484E9AE2EF08; DevicePassword=F8fc427aE956b" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andrew\.deyo\\documents\\visual\ studio\ 2012\\Projects\\cmxlab\\cmxlab\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Crm']/@connectionString" />
+  </parameter>
+  <parameter name="CmxManagement-Web.config Connection String" description="CmxManagement Connection String used in web.config by the application to access the database." defaultValue="Url=https://cmxqainternalcrm.dominiondashboard.com/CmxManagement; Username=CMXQA\CMXIntegrations; Password=12345678; DeviceID=6100DC19-969A-4C48-B3B4-484E9AE2EF08; DevicePassword=F8fc427aE956b" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andrew\.deyo\\documents\\visual\ studio\ 2012\\Projects\\cmxlab\\cmxlab\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CmxManagement']/@connectionString" />
+  </parameter>
+</parameters>
