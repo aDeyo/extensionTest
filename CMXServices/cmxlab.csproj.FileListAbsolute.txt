@@ -1,5 +1,0 @@
-c:\users\andrew.deyo\documents\visual studio 2012\Projects\cmxlab\cmxlab\bin\cmxlab.dll
-c:\users\andrew.deyo\documents\visual studio 2012\Projects\cmxlab\cmxlab\bin\cmxlab.pdb
-c:\users\andrew.deyo\documents\visual studio 2012\Projects\cmxlab\cmxlab\obj\Release\cmxlab.dll
-c:\users\andrew.deyo\documents\visual studio 2012\Projects\cmxlab\cmxlab\obj\Release\cmxlab.pdb
-C:\Users\andrew.deyo\documents\visual studio 2012\Projects\cmxlab\cmxlab\obj\Release\cmxlab.csprojResolveAssemblyReference.cache

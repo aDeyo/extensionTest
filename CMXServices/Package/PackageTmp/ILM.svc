@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="DMx.Xrm.Services.ILM" CodeBehind="ILM.svc.cs" %>
