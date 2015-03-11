@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="cmxlabtest" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\andrew\.deyo\\documents\\visual\ studio\ 2012\\Projects\\cmxtest\\cmxtest\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\andrew\.deyo\\documents\\visual\ studio\ 2012\\Projects\\cmxtest\\cmxtest\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-cmxtest-20150224161529;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-cmxtest-20150224161529.mdf" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\andrew\.deyo\\documents\\visual\ studio\ 2012\\Projects\\cmxtest\\cmxtest\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
